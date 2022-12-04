@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: reactlandingpage1.netlify.app/
+In the project directory, you can run: https://reactlandingpage1.netlify.app/
 
 ### `npm start`
 
