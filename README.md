@@ -1,12 +1,10 @@
 # Getting Started with Create React App
 
-# Hosted in reactlandingpage1.netlify.app/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: reactlandingpage1.netlify.app/
 
 ### `npm start`
 
